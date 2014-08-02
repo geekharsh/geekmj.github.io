@@ -15,6 +15,28 @@ body {
   /*max-width: 600px;*/
   margin: 0 auto;
 }
+.left {
+    float: left;
+    width: 70%;
+}
+.right {
+    float: right;
+    width: 30%;
+}
+.group:after {
+    content:"";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 480px) {
+    .left, 
+    .right {
+        float: none;
+        width: auto;
+    }
+}
+        
 
 section {
   display: block;
