@@ -7,7 +7,6 @@ author: GeekMJ
 tags: [example, code]
 ads: true
 image:
-  feature:
   teaser:
 ---
 ## JavaScript: Two String Type Example
