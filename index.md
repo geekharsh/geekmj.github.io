@@ -1,30 +1,31 @@
 ---
 layout: home
 permalink: /
-image:
+image: 
   feature: homepage.jpg
+published: true
 ---
 
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Profile</h2>
+  <p class="post-excerpt">Mrityunjay Kumar (Geek MJ) is a software developer, architect and professional tech blogger with more than 10 years of experience.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Projects</h2>
+  <p class="post-excerpt">GeekMJ has built various size projects in his career and looking forward to develop more. He is currently working at Magic Software, a company engage in developing edu tech products</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Programs</h2>
+  <p class="post-excerpt">A great collection of JavaScript, HTML and CSS demoes and examples has been created here.</p>
 </div><!-- /.tile -->
-
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+
+<h2 class="post-title">Blogging</h2>
+  <p class="post-excerpt">Mrityunjay Kumar is a professional blogger in software development and tech niche, you can read here at <a href="http://www.geekmj.in" title="GeekMJ Blog">GeekMJ Blog</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
