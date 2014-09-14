@@ -6,6 +6,9 @@ excerpt: "A code example explaining javascript two String types."
 author: GeekMJ
 tags: [example, code]
 ads: true
+image:
+  feature:
+  teaser:
 ---
 ## JavaScript: Two String Type Example
 
