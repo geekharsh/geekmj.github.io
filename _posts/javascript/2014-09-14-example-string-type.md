@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Two String Type Example"
+title: "JavaScript: Two String Type Example"
 categories: [demo, javascript]
 author: GeekMJ
 tags: [example, code]
@@ -9,13 +9,12 @@ image:
   feature: false
   teaser: false
 ---
-## JavaScript: Two String Type Example
-
-          In this example we will see there are two types of String:
+In this example we will see there are two types of String:
 
 1.  Primitive
 2.  Object
-        string type is primitive while object type is non primitive.
+
+String type is primitive while object type is non primitive.
 
 See the Pen [Two types of String in JavaScript](http://codepen.io/geekmj/pen/ydklx/) by Mrityunjay Kumar ([@geekmj](http://codepen.io/geekmj)) on [CodePen](http://codepen.io).
 
