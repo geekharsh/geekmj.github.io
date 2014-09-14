@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Pro @ GeekMJ
-description: Profile, Project & Programs By Mrityunjay Kumar (GeekMJ)
+title: GeekMJ Pro
+description: Profile, Projects & Programs By Mrityunjay Kumar (GeekMJ)
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: pro.geekmj.in
+url: http://pro.geekmj.in
 
 # Jekyll configuration
 
