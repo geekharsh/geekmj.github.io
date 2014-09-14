@@ -2,7 +2,6 @@
 layout: article
 title: "Two String Type Example"
 categories: [demo, javascript]
-excerpt: "A code example explaining javascript two String types."
 author: GeekMJ
 tags: [example, code]
 ads: true
