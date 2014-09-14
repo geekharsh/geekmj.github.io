@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Demo & Examples
+  url: /demo/
+  excerpt: "Web platform code examples and demo for various concepts."
+  image: demo-menu-logo.jpg
