@@ -20,7 +20,7 @@ published: true
 
 <div class="tile">
   <h2 class="post-title">Programs</h2>
-  <p class="post-excerpt">A great collection of JavaScript, HTML and CSS demoes and examples has been created here.</p>
+  <p class="post-excerpt">A great collection of JavaScript, HTML and CSS demos and examples has been created here.</p>
 </div><!-- /.tile -->
 <div class="tile">
 
