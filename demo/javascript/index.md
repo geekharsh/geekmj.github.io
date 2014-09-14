@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JavaScript Demoes, examples and code"
+title: "JavaScript Demos, examples and code"
 date: 2014-09-14T21:43:00+05:30
 modified:
 tags: []
