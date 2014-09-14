@@ -22,5 +22,10 @@ published: true
   <h2 class="post-title">Programs</h2>
   <p class="post-excerpt">A great collection of JavaScript, HTML and CSS demoes and examples has been created here.</p>
 </div><!-- /.tile -->
+<div class="tile">
+
+<h2 class="post-title">Blogging</h2>
+  <p class="post-excerpt">Mrityunjay Kumar is a professional blogger in software development and tech niche, you can read here at <a href="http://www.geekmj.in" title="GeekMJ Blog">GeekMJ Blog</a>.</p>
+</div><!-- /.tile -->
 
 </div><!-- /.tiles -->
