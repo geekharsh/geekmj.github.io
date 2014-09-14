@@ -1,12 +1,16 @@
 ---
 layout: article
 title: "Demo & Example"
-modified: 2014-09-14T21:20:35+05:30
+modified: {}
 excerpt: "Code Demo & Examples related to JavaScript, HTML 5 & CSS."
-image:
-  feature:
-  teaser:
-  thumb:
+image: 
+  feature: null
+  teaser: null
+  thumb: null
 share: false
 toc: true
+published: true
 ---
+
+## [JavaScript Code, Demoes & Examples](http://pro.geekmj.in/demo/javascript/ "JavaScript Code, Demoes & Examples")
+Several demoes related to JavaScript Programming Essentials.
