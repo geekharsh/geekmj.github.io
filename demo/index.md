@@ -8,9 +8,9 @@ image:
   teaser: null
   thumb: null
 share: false
-toc: true
+toc: false
 published: true
 ---
 
-## [JavaScript Code, Demoes & Examples](http://pro.geekmj.in/demo/javascript/ "JavaScript Code, Demoes & Examples")
-Several demoes related to JavaScript Programming Essentials.
+### [1. JavaScript Code, Demos & Examples](http://pro.geekmj.in/demo/javascript/ "JavaScript Code, Demos & Examples")
+Several demos related to JavaScript Programming Essentials.
