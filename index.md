@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 image:
   feature: home-page.jpg
