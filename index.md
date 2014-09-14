@@ -15,7 +15,7 @@ published: true
 
 <div class="tile">
   <h2 class="post-title">Projects</h2>
-  <p class="post-excerpt">GeekMJ has built various size projects in his career and looking forward to develop more.</p>
+  <p class="post-excerpt">GeekMJ has built various size projects in his career and looking forward to develop more. He is currently working at Magic Software, a company engage in developing edu tech products</p>
 </div><!-- /.tile -->
 
 <div class="tile">
