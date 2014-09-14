@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'GeekMJ @ Github' 
+tagline:          'By GeekMJ'
+description:      'GeekMJ github page'
+url:              http://github.geekmj.ccom
+
+author:
+  name:           'Mrityunjay Kumar (GeekMJ)'
+  url:            https://twitter.com/geekmj
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/geekmj/geekmj.github.io
